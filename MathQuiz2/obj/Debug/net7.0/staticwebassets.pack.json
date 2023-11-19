@@ -1,0 +1,969 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MathQuiz2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MathQuiz2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\animated-headline.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\animated-headline.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\gijgo.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\main.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\price_rangs.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\progressbar_barfiller.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\progressbar_barfiller.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\slick.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\slicknav.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\style.map",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\style.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\comment_1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\comment_1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\comment_2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\comment_2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\comment_3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\comment_3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\about2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\about2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\about3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\about3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured5.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured5.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\featured6.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\featured6.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\footer-bg.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\footer_bg.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\footer_bg.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\form.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\form.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\h1_hero2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\h1_hero2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\heart1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\heart1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\logo2_footer.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\qutaion.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\qutaion.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\screen.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\screen.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\section-bg3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\section-bg3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\section_bg01.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\section_bg01.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\section_bg02.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\section_bg02.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\tam4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\tam4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\team1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\team1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\team2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\team2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\team3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\team3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\team4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\team4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\testimonail.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\testimonail.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\testimonial.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\testimonial.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic5.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic5.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic6.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic6.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic7.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic7.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\topic8.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\topic8.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\gallery\\video-bg.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\gallery\\video-bg.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\hero\\h1_hero.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\hero\\h1_hero.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\hero\\hero2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\hero\\hero2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\hero\\screen.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\hero\\screen.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\icon\\about.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\icon\\about.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\icon\\icon1.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\icon\\icon1.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\icon\\icon2.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\icon\\icon2.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\icon\\icon3.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\icon\\icon3.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\icon\\right-icon.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\icon\\right-icon.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\login-bg.mp4",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\login-bg.mp4"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\logo\\loder.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\logo\\loder.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\logo\\loder.svg",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\logo\\loder.svg"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\next.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\img\\post\\preview.png"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\animated.headline.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\contact.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\hover-direction-snake.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\hover-direction-snake.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\jquery.vide.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\jquery.vide.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLuyenthi\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\LayoutLuyenthi\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MathQuiz2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MathQuiz2.props",
+      "PackagePath": "build\\MathQuiz2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MathQuiz2.props",
+      "PackagePath": "buildMultiTargeting\\MathQuiz2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MathQuiz2.props",
+      "PackagePath": "buildTransitive\\MathQuiz2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

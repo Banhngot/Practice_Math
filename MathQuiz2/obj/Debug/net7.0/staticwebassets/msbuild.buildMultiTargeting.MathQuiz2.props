@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MathQuiz2.props" />
+</Project>
