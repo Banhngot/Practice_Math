@@ -1,0 +1,31 @@
+﻿@using static MathQuiz.Helpers.ManageNavPages;
+<aside id="sidebar" class="sidebar">
+
+    <ul class="sidebar-nav" id="sidebar-nav">
+
+        <li class="nav-item">
+            <a class="nav-link @ManageMenuPage.MainNavClass(ViewContext, "Home")" asp-area="" asp-action="Index" asp-controller="Home">
+                <i class="bi bi-grid"></i>
+                <span>Dashboard</span>
+            </a>
+        </li><!-- End Dashboard Nav -->
+
+        <li class="nav-heading">Luyện Thi</li>
+
+        <li class="nav-item">
+            <a class="nav-link @ManageMenuPage.MainNavClass(ViewContext, "Exam", "Index")" asp-action="Index" asp-area="" asp-controller="Exam">
+                <i class="bi bi-person"></i>
+                <span>Đề Thi</span>
+            </a>
+        </li><!-- End Profile Page Nav -->
+
+        <li class="nav-item">
+            <a class="nav-link @ManageMenuPage.MainNavClass(ViewContext, "Exam", "ExamTest")" asp-action="ExamTest" asp-area="" asp-controller="Exam">
+                <i class="bi bi-question-circle"></i>
+                <span>Thi Thử</span>
+            </a>
+        </li>
+
+    </ul>
+
+</aside><!-- End Sidebar-->

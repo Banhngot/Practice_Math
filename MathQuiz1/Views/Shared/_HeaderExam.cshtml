@@ -1,0 +1,32 @@
+﻿@using MathQuiz.Data;
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@using MathQuiz.Helpers;
+
+@if (SignInManager.IsSignedIn(User))
+{
+    var user = await UserManager.GetUserAsync(User);
+    <!-- ======= Header ======= -->
+    <header id="header" class="header-exam navbar navbar-default">
+        <div class="navbar-brand col-12 col-xs-12 col-sm-12 col-md-12 px-5">
+            <div class="d-block d-lg-flex text-center align-items-center justify-content-between">
+                <div class="row align-items-center justify-content-start ">
+                    <a asp-action="Index" asp-controller="Exam" asp-area="" class="logo-exam">
+                        <img src="~/images/Home/mainlogo.png" alt="Logo" style="width: 10rem; height: auto;">
+                    </a>
+                </div>
+                <div class="d-none d-lg-flex ms-auto row align-items-center justify-content-center">
+                    <h5 class="fw-bold text-danger">@TempData["ExamName"] <span class="text-black fw-light">(Mã đề: @TempData["UserExamId"])</span></h5>
+                </div>
+                <div class="ms-auto text-black mt-sm-3 mt-md-3">
+                    <p class="d-none d-xl-flex">Thí sinh: <strong>@TempData["FullName"]</strong></p>
+                    <p class="d-none d-xl-flex">Thời gian thi: <strong class="text-danger">@TempData["TimeDoExam"] phút</strong></p>
+                    <p id="countdown-exam" class="fw-bold d-block d-xl-none d-xxl-none">Thời gian còn:<strong class="text-danger">00:00</strong> </p>
+                    <p class="fw-bold d-block d-xl-none d-xxl-none">Số câu đã làm: <span id="question-complete" class="text-danger">@ViewBag.CountComplete</span>/@TempData["NumberOfQuestion"] </p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- End Header -->
+}

@@ -1,0 +1,91 @@
+﻿@using MathQuiz.Services.Interface;
+@using MathQuiz.Enums;
+@using MathQuiz.Helpers
+@inject INotificationService notificationService
+@{
+    var totalNotificationUnread = notificationService.TotalNotificationUnread();
+}
+
+<li class="nav-item dropdown">
+
+    <a class="nav-link nav-icon" href="#" data-bs-toggle="dropdown">
+        <i class="bi bi-bell"></i>
+        <span id="NotificationCountUnRead" class="badge bg-primary badge-number">@totalNotificationUnread</span>
+    </a><!-- End Notification Icon -->
+    <ul id="notificationList" class="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
+        <li class="dropdown-header">
+                You have @totalNotificationUnread new notifications
+            <a href="#"><span class="badge rounded-pill bg-primary p-2 ms-2">View all</span></a>
+        </li>
+        <li>
+            <hr class="dropdown-divider">
+        </li>
+    @{
+        var notifications = await notificationService.GetNotification();
+        if (notifications != null)
+        {
+            foreach (var item in notifications)
+            {
+                switch(item.NotificationType)
+                {
+                    case NotificationType.Success:
+                    {
+                        <li class="notification-item">
+                                <i class="bi bi-check-circle text-success"></i>
+                            <div>
+                                <h4>Tiêu Đề</h4>
+                                <p>@item.Message</p>
+                                <p>@item.NotificationDateTime.ToRelativeTime()</p>
+                            </div>
+                        </li>
+                        break;
+                    }
+                    case NotificationType.Warning:
+                    {
+                        <li class="notification-item">
+                            <i class="bi bi-exclamation-circle text-warning"></i>
+                            <div>
+                                <h4>Tiêu Đề</h4>
+                                <p>@item.Message</p>
+                                <p>@item.NotificationDateTime.ToRelativeTime()</p>
+                            </div>
+                        </li>
+                        break;
+                    }
+                    case NotificationType.Pending:
+                    {
+                        <li class="notification-item">
+                            <i class="bi bi-info-circle text-primary"></i>
+                            <div>
+                                <h4>Tiêu Đề</h4>
+                                <p>@item.Message</p>
+                                <p>@item.NotificationDateTime.ToRelativeTime()</p>
+                            </div>
+                        </li>
+                        break;
+                    }
+                    case NotificationType.Failure:
+                    {
+                        <li class="notification-item">
+                            <i class="bi bi-x-circle text-danger"></i>
+                            <div>
+                                <h4>Tiêu Đề</h4>
+                                <p>@item.Message</p>
+                                <p>@item.NotificationDateTime.ToRelativeTime()</p>
+                            </div>
+                        </li>
+                        break;
+                    }
+                }
+                <li>
+                    <hr class="dropdown-divider">
+                </li>
+            }
+        }
+    }
+    <li class="dropdown-footer">
+        <a href="#">Show all notifications</a>
+    </li>
+
+</ul><!-- End Notification Dropdown Items -->
+</li>
