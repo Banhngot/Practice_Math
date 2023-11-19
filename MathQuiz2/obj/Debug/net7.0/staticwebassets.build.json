@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RPLeHVSEJcmabqrdtCs1u2Vbx0LS4OTNFb2lYeo36PQ=",
+  "Hash": "Z8rXt+OhELMTvvIG4vwLI0Yjj0ZEcI0pYr8yqUSOBHs=",
   "Source": "MathQuiz2",
   "BasePath": "_content/MathQuiz2",
   "Mode": "Default",
@@ -610,6 +610,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\LayoutLogin\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Identity": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLogin\\img\\br.jpg",
+      "SourceId": "MathQuiz2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\",
+      "BasePath": "_content/MathQuiz2",
+      "RelativePath": "LayoutLogin/img/br.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LayoutLogin\\img\\br.jpg"
     },
     {
       "Identity": "D:\\Dự án luyện thi toán\\Practice_Math\\MathQuiz2\\wwwroot\\LayoutLogin\\img\\elements\\a.jpg",
