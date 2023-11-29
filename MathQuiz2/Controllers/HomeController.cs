@@ -6,6 +6,8 @@ namespace MathQuiz2.Controllers
 {
     public class HomeController : Controller
     {
+        YdckmwsnLuyentoanContext db = new YdckmwsnLuyentoanContext();
+        
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -15,7 +17,8 @@ namespace MathQuiz2.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var lstExam = db.Exams.ToList();
+            return View(lstExam);
         }
 
         public IActionResult Privacy()
